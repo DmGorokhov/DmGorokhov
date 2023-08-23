@@ -1,10 +1,11 @@
 ### Hi there 👋
 ---
-#### My name is Dmitry Gorokhov and I'm a software developer engineer on Python. I'm from Russia, living in Kolomna (Moscow region) and currently looking for the career opportunities as a Python backend developer. 
+ My name is Dmitry Gorokhov and I'm a software developer engineer on Python.\
+ I'm from Russia, living in Kolomna (Moscow region) and currently looking for the career opportunities as a Python backend developer. 
 
 ### 📫 My contacts: 
-[![email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gorokhov86@gmail.com)
 [![telegram](https://img.shields.io/badge/-telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Diman_Gor)
+[![email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gorokhov86@gmail.com)
 
 ---
 ### My education:
@@ -53,20 +54,7 @@
 
 
   ### A little bit more about me:
-    When I'm not writing code, I enjoy self-planned trips, especially trekking in the mountains. In my free time I go cycling in summer and skiing in winter.
+  When I'm not writing code, I enjoy self-planned trips, especially trekking in the mountains. In my free time I go cycling in summer and skiing in winter.
    
 </p>
-<!--
-**DmGorokhov/DmGorokhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
