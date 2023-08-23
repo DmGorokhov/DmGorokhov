@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-My name is Dmitry Gorokhov and I'm a software developer engineer on Python. I'm from Russia, living in Kolomna (Moscow region) and currently looking for the career opportunities as a Python backend developer. 
+#### My name is Dmitry Gorokhov and I'm a software developer engineer on Python. I'm from Russia, living in Kolomna (Moscow region) and currently looking for the career opportunities as a Python backend developer. 
 
 ### 📫 My contacts: 
 [![email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gorokhov86@gmail.com)
@@ -15,7 +15,7 @@ My name is Dmitry Gorokhov and I'm a software developer engineer on Python. I'm 
 ### Additional IT-education activities:
 - 🌱 Yandex Open Lecture Series (summer 2023)
 - 🌱 I’m currently learning DevOps courses on [Hexlet](https://ru.hexlet.io/u/dmitry_gorokhov)
-### My tech stack:
+## 🔧 Technologies & Tools
 
 <p>
 
@@ -35,14 +35,25 @@ My name is Dmitry Gorokhov and I'm a software developer engineer on Python. I'm 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-4682B4?style=flat&logo=pycharm&logoColor=white)
 
+
   ## 🗂️ Highlight Projects
+<a href="https://github.com/DmGorokhov/Gendiff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Gendiff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<a href="https://github.com/DmGorokhov/Page-analyzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Page-analyzer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 
-<a href="https://github.com/DmGorokhov/Brain-games" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Brain-games&theme=dracula" />
-</a>
+<a href="https://github.com/DmGorokhov/python-project-52">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=python-project-52&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<a href="https://github.com/DmGorokhov/Brain-games">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Brain-Games&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 
-  #### A little bit more about me:
->When I'm not writing code, I enjoy self-planned trips, especially trekking in the mountains. In my free time I go cycling in summer and skiing in winter.
+
+  ### A little bit more about me:
+    When I'm not writing code, I enjoy self-planned trips, especially trekking in the mountains. In my free time I go cycling in summer and skiing in winter.
    
 </p>
 <!--
