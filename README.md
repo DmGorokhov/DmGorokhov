@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
- My name is Dmitry Gorokhov and I'm a software developer engineer on Python.\
+ My name is Dmitry Gorokhov and I'm a Python developer.\
  I'm from Russia, living in Kolomna (Moscow region) and currently looking for the career opportunities as a Python backend developer. 
 
 ### 📫 My contacts: 
