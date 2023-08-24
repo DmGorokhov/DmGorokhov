@@ -53,7 +53,7 @@
 </a>  
 
 
-  ### A little bit more about me:
+  ### A little bit more about myself:
   When I'm not writing code, I enjoy self-planned trips, especially trekking in the mountains. In my free time I go cycling in summer and skiing in winter.
    
 </p>
