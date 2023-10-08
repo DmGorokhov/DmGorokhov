@@ -6,6 +6,7 @@
 ### 📫 My contacts: 
 [![telegram](https://img.shields.io/badge/-telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Diman_Gor)
 [![email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gorokhov86@gmail.com)
+[![linkedin](https://img.shields.io/badge/-linkedin-0075cc?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-gorokhov)
 
 ---
 ### My education:
@@ -15,7 +16,6 @@
 
 ### Additional IT-education activities:
 - 🌱 Yandex Open Lecture Series (summer 2023)
-- 🌱 I’m currently learning DevOps courses on [Hexlet](https://ru.hexlet.io/u/dmitry_gorokhov)
 ## 🔧 Technologies & Tools
 
 <p>
