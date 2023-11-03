@@ -29,7 +29,6 @@
   <img alt="DjangoORM" src="https://img.shields.io/badge/-Django_ORM-092E20?logo=django&logoColor=white" />
    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />  
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 
