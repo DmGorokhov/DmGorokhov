@@ -32,7 +32,7 @@
 ### :fire: My Stats :
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=DmGorokhov&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmGorokhov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmGorokhov&layout=compact&theme=vision-friendly-transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p>
@@ -54,7 +54,9 @@
 <a href="https://github.com/DmGorokhov/Exchangerates-Converter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Exchangerates-Converter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
-
+<a href="https://github.com/DmGorokhov/Brain-games">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Brain-games&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 ---
 ### My education:
 -  [Hexlet](https://ru.hexlet.io/u/dmitry_gorokhov) online programming school as Python backend developer
