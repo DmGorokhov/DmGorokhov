@@ -39,7 +39,7 @@
 
   ## 🗂️ Highlight Projects
 <a href="https://github.com/DmGorokhov/hexlet-friends">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Gendiff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Hexlet-friends&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 <a href="https://github.com/DmGorokhov/Gendiff">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Gendiff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
