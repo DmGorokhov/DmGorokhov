@@ -35,28 +35,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmGorokhov&layout=compact&theme=vision-friendly-transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>
 
-  ## 🗂️ Highlight Projects
-<a href="https://github.com/DmGorokhov/hexlet-friends">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Hexlet-friends&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://github.com/DmGorokhov/Gendiff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Gendiff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://github.com/DmGorokhov/Page-analyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Page-analyzer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-
-<a href="https://github.com/DmGorokhov/python-project-52">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=python-project-52&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://github.com/DmGorokhov/Exchangerates-Converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Exchangerates-Converter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-<a href="https://github.com/DmGorokhov/Brain-games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmGorokhov&repo=Brain-games&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
 ---
 ### My education:
 -  [Hexlet](https://ru.hexlet.io/u/dmitry_gorokhov) online programming school as Python backend developer
@@ -66,5 +45,5 @@
   ### A little bit more about myself:
   When I'm not writing code, I enjoy self-planned trips, especially trekking in the mountains. In my free time I go cycling in summer and skiing in winter.
    
-</p>
+
 
